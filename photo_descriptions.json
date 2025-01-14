@@ -1,0 +1,635 @@
+[
+    {
+        "photo_name": "Coche Encerado",
+        "description": [
+            "vintage",
+            "brillante",
+            "cromado",
+            "grande",
+            "llamativo",
+            "retro",
+            "detalles",
+            "elegante",
+            "potente",
+            "estilizado"
+        ]
+    },
+    {
+        "photo_name": "Cactus",
+        "description": [
+            "alto",
+            "espinas",
+            "natural",
+            "desierto",
+            "verde",
+            "seco",
+            "erguido",
+            "vertical",
+            "desolado",
+            "resistencia"
+        ]
+    },
+    {
+        "photo_name": "Coche",
+        "description": [
+            "robusto",
+            "blindado",
+            "todoterreno",
+            "agresivo",
+            "cañón",
+            "ruedas grandes",
+            "utilitario",
+            "aventurero",
+            "tecnología",
+            "verde"
+        ]
+    },
+    {
+        "photo_name": "Reloj",
+        "description": [
+            "vintage",
+            "esfera",
+            "numeración romana",
+            "oxidado",
+            "detalles",
+            "viejo",
+            "colgante",
+            "nostálgico",
+            "rústico",
+            "misterioso"
+        ]
+    },
+    {
+        "photo_name": "Canino",
+        "description": [
+            "agresivo",
+            "descontrolado",
+            "peligroso",
+            "furioso",
+            "salvaje",
+            "amenazante",
+            "violento",
+            "iracundo",
+            "letal",
+            "enfurecido"
+        ]
+    },
+    {
+        "photo_name": "Bonsay",
+        "description": [
+            "delicado",
+            "miniatura",
+            "cuidadoso",
+            "antiguo",
+            "sereno",
+            "elegante",
+            "compacto",
+            "armonioso",
+            "fragil",
+            "meticuloso"
+        ]
+    },
+    {
+        "photo_name": "Planta",
+        "description": [
+            "verde",
+            "viva",
+            "natural",
+            "creciente",
+            "floreciente",
+            "fresca",
+            "terrenal",
+            "frondosa",
+            "orgánica",
+            "resistente"
+        ]
+    },
+    {
+        "photo_name": "Zona Cube",
+        "description": [
+            "angular",
+            "geométrica",
+            "simétrica",
+            "compacta",
+            "contenida",
+            "ordenada",
+            "minimalista",
+            "precisa",
+            "estructurada",
+            "cerrada"
+        ]
+    },
+    {
+        "photo_name": "Felino",
+        "description": [
+            "ágil",
+            "elegante",
+            "sigiloso",
+            "fiero",
+            "grácil",
+            "independiente",
+            "cazador",
+            "veloz",
+            "astuto",
+            "flexible"
+        ]
+    },
+    {
+        "photo_name": "Delorean",
+        "description": [
+            "retro",
+            "deteriorado",
+            "icónico",
+            "metálico",
+            "desgastado",
+            "vintage",
+            "futurista",
+            "abandonado",
+            "rústico",
+            "nostálgico"
+        ]
+    },
+    {
+        "photo_name": "Pollo",
+        "description": [
+            "peculiar",
+            "curioso",
+            "indestructible",
+            "misterioso",
+            "legendario",
+            "silencioso",
+            "ordinario",
+            "respetado",
+            "inmutable",
+            "mítico"
+        ]
+    },
+    {
+        "photo_name": "Tigre",
+        "description": [
+            "peculiar",
+            "curioso",
+            "indestructible",
+            "misterioso",
+            "legendario",
+            "silencioso",
+            "ordinario",
+            "respetado",
+            "inmutable",
+            "mítico"
+        ]
+    },
+    {
+        "photo_name": "white cat among black cats",
+        "description": [
+            "cat",
+            "cute",
+            "unique",
+            "spotlight",
+            "black cat",
+            "white cat",
+            "cartoon",
+            "adorable",
+            "animals",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "skeleton with computer on fire",
+        "description": [
+            "skeleton",
+            "fire",
+            "computer",
+            "retro",
+            "humor",
+            "office",
+            "funny",
+            "skeleton drinking coffee",
+            "dark humor",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "plague doctor poster",
+        "description": [
+            "plague doctor",
+            "black death",
+            "historical",
+            "gothic",
+            "medicine",
+            "dark",
+            "vintage",
+            "epidemic",
+            "bird mask",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "vampire",
+        "description": [
+            "vampire",
+            "gothic",
+            "halloween",
+            "coffee",
+            "dark humor",
+            "vintage",
+            "spooky",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "plague",
+        "description": [
+            "plague doctor",
+            "medical",
+            "gothic",
+            "halloween",
+            "dark",
+            "medieval",
+            "creepy",
+            "potion",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "haunted",
+        "description": [
+            "haunted forest",
+            "red moon",
+            "halloween",
+            "spooky",
+            "creepy",
+            "pumpkin",
+            "gothic",
+            "dark art",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "wizard",
+        "description": [
+            "wizard",
+            "fantasy",
+            "magic",
+            "staff",
+            "pipe",
+            "medieval",
+            "mythical",
+            "sorcery",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "haunted house with pumpkins",
+        "description": [
+            "haunted house",
+            "pumpkins",
+            "bats",
+            "full moon",
+            "halloween",
+            "spooky",
+            "horror",
+            "gothic",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "witch flying on broom",
+        "description": [
+            "witch",
+            "broom",
+            "pumpkin",
+            "bats",
+            "full moon",
+            "halloween",
+            "spooky",
+            "horror",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "skeleton pirate with treasure",
+        "description": [
+            "skeleton",
+            "pirate",
+            "treasure chest",
+            "ship",
+            "bats",
+            "halloween",
+            "spooky",
+            "horror",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "mummy rising from tomb",
+        "description": [
+            "mummy",
+            "tomb",
+            "graveyard",
+            "glowing eyes",
+            "halloween",
+            "spooky",
+            "horror",
+            "undead",
+            "original"
+        ]
+    },
+    {
+        "photo_name": "black cat on pumpkin",
+        "description": [
+            "black cat",
+            "pumpkin",
+            "candles",
+            "haunted house",
+            "halloween",
+            "spooky",
+            "horror",
+            "gothic",
+            "original"
+        ]
+    },{
+        "photo_name": "Christmas Wreath",
+        "description": [
+            "christmas wreath",
+            "red bow",
+            "holiday decor",
+            "holly leaves",
+            "christmas berries",
+            "festive",
+            "ornaments",
+            "christmas decorations",
+            "holiday season",
+            "traditional"
+        ]
+    },
+    {
+        "photo_name": "Santa Claus with Gifts",
+        "description": [
+            "santa claus",
+            "gifts",
+            "christmas",
+            "holiday season",
+            "candy canes",
+            "festive",
+            "red gloves",
+            "decorations",
+            "ornaments",
+            "santa"
+        ]
+    },
+    {
+        "photo_name": "Snowman with Presents",
+        "description": [
+            "snowman",
+            "presents",
+            "christmas",
+            "holiday season",
+            "candy canes",
+            "festive decor",
+            "christmas tree",
+            "snowflakes",
+            "ornaments",
+            "gifts"
+        ]
+    },
+    {
+        "photo_name": "Christmas Tree with Gifts",
+        "description": [
+            "christmas tree",
+            "gifts",
+            "holiday season",
+            "festive",
+            "ornaments",
+            "snowflakes",
+            "presents",
+            "decorations",
+            "candy canes",
+            "christmas"
+        ]
+    },
+    {
+        "photo_name": "Christmas Cabin in Snow",
+        "description": [
+            "christmas cabin",
+            "snow",
+            "holiday season",
+            "festive",
+            "christmas tree",
+            "snowman",
+            "reindeer",
+            "winter scene",
+            "decorations",
+            "christmas lights"
+        ]
+    },
+    {
+        "photo_name": "Christmas Snowflake Design",
+        "description": [
+            "snowflake",
+            "christmas",
+            "holiday season",
+            "festive design",
+            "santa claus",
+            "snowman",
+            "christmas ornaments",
+            "gift",
+            "christmas tree",
+            "decorations"
+        ]
+    },
+    {
+        "photo_name": "Christmas Tree in Snow Globe",
+        "description": [
+            "snow globe",
+            "christmas tree",
+            "holiday season",
+            "presents",
+            "festive",
+            "christmas decor",
+            "ornaments",
+            "winter scene",
+            "snow",
+            "christmas lights"
+        ]
+    },
+    {
+        "photo_name": "Foxy Holidays",
+        "description": [
+            "fox",
+            "christmas",
+            "holiday decor",
+            "red scarf",
+            "winter scene",
+            "christmas ornaments",
+            "festive",
+            "holiday greetings",
+            "christmas wreath",
+            "snowy background"
+        ]
+    },
+    {
+        "photo_name": "Purrfect Holidays",
+        "description": [
+            "kitten",
+            "christmas",
+            "holiday decor",
+            "red scarf",
+            "festive",
+            "christmas ornaments",
+            "holiday greetings",
+            "cute cat",
+            "holiday season",
+            "christmas decorations"
+        ]
+    },
+    {
+        "photo_name": "Squirrel with Santa Hat",
+        "description": [
+            "squirrel",
+            "santa hat",
+            "christmas",
+            "festive",
+            "holiday decor",
+            "pinecones",
+            "christmas ornaments",
+            "holiday season",
+            "winter scene",
+            "christmas wreath"
+        ]
+    },
+    {
+        "photo_name": "Bear-y Christmas",
+        "description": [
+            "polar bear",
+            "christmas",
+            "holiday decor",
+            "santa hat",
+            "festive",
+            "christmas ornaments",
+            "holiday greetings",
+            "striped scarf",
+            "winter scene",
+            "christmas decorations"
+        ]
+    },
+    {
+        "photo_name": "Owl Christmas",
+        "description": [
+            "owl",
+            "christmas",
+            "santa hat",
+            "holiday greetings",
+            "christmas ornaments",
+            "festive",
+            "holiday season",
+            "snowflakes",
+            "christmas decor",
+            "winter scene"
+        ]
+    },{
+        "photo_name": "Angry Cat at Computer",
+        "description": [
+            "angry woman",
+            "cat",
+            "computer",
+            "frustration",
+            "office",
+            "funny situation",
+            "yelling",
+            "pet",
+            "technology",
+            "work stress"
+        ]
+    },
+    {
+        "photo_name": "Happy Computer in Fire",
+        "description": [
+            "computer",
+            "fire",
+            "happy",
+            "surreal",
+            "funny",
+            "burning room",
+            "calm amidst chaos",
+            "office",
+            "humor",
+            "coffee"
+        ]
+    },
+    {
+        "photo_name": "Computer Spilling Drink",
+        "description": [
+            "computer",
+            "drink spill",
+            "fries",
+            "funny",
+            "accident",
+            "technology malfunction",
+            "soda",
+            "messy desk",
+            "cartoon",
+            "surprise"
+        ]
+    },
+    {
+        "photo_name": "Shocked Computer Blue Screen",
+        "description": [
+            "computer",
+            "blue screen",
+            "error",
+            "surprised",
+            "funny",
+            "technology",
+            "malfunction",
+            "cartoon",
+            "reaction",
+            "office"
+        ]
+    },
+    {
+        "photo_name": "Coffee Spill on Computer",
+        "description": [
+            "computer",
+            "coffee spill",
+            "funny",
+            "accident",
+            "messy desk",
+            "panic",
+            "cartoon",
+            "technology",
+            "surprise",
+            "office disaster"
+        ]
+    },
+    {
+        "photo_name": "Pigeon Confused by Computer",
+        "description": [
+            "pigeon",
+            "computer",
+            "funny",
+            "is this a virus",
+            "cartoon",
+            "confused",
+            "technology",
+            "surprise",
+            "pop-up window",
+            "office"
+        ]
+    },
+    {
+        "photo_name": "Linux is Better than Windows Meme",
+        "description": [
+            "linux",
+            "windows",
+            "tux penguin",
+            "funny meme",
+            "computer",
+            "technology",
+            "change my mind",
+            "operating system",
+            "cartoon",
+            "tech debate"
+        ]
+    }
+]
