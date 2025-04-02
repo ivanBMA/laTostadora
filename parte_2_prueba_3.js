@@ -49,8 +49,8 @@ async function login(page) {
     await page.waitForSelector('#user-password_page'); // Cambia esto si el ID es diferente
 
     // Completar el formulario
-    const email = 'ivanmprp@gmail.com'; // Reemplaza con tu email
-    const password = 'Leopardo1.'; // Reemplaza con tu contraseña
+    const email = '************'; // Reemplaza con tu email
+    const password = '************'; // Reemplaza con tu contraseña
     await page.type('#user-email_page', email);
     await page.type('#user-password_page', password);
 
